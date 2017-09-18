@@ -118,6 +118,7 @@ html, body {
 
   .container-2 {
     background: linear-gradient(90deg, orange, orangered);
+
   }
 
   .container-2 h3 {
@@ -133,6 +134,7 @@ html, body {
 
   .container-3 {
     background: linear-gradient(90deg, orangered, orange);
+    border-top: 2px solid black;
   }
 
   .container-3 h3{
@@ -147,6 +149,7 @@ html, body {
 
   .sect4 {
     background: linear-gradient(90deg, orange, orangered);
+    border-top: 2px solid black;
   }
 
   .container-4 h3 {
@@ -160,6 +163,7 @@ html, body {
 
   .sect5 {
     background: linear-gradient(90deg, orangered, orange);
+    border-top: 2px solid black;
   }
 
   .container-5 h3 {
@@ -173,6 +177,7 @@ html, body {
 
   .sect6 {
     background: linear-gradient(90deg, orange, orangered);
+    border-top: 2px solid black;
   }
 
   .sect6 h3 {
@@ -186,6 +191,7 @@ html, body {
 
   .sect7 {
     background: linear-gradient(90deg, orangered, orange);
+    border-top: 2px solid black;
   }
 
   .container-7 h3 {
@@ -236,6 +242,7 @@ html, body {
     text-align: center;
   }
 
+
   p {
     font-family: Bellefair;
     font-size: 2em;
@@ -257,3 +264,9 @@ html, body {
     padding-left: 0px;
     padding-right: 0px;
   }
+.col-sm-4 {
+  padding-bottom: 5%;
+}
+.col-sm-12 {
+  padding-bottom: 5%;
+}
